@@ -2,7 +2,7 @@ http:
   listener:
     host: "localhost"
     port: "9082"
-    path: "/getRoutes/{serviceType}"
+    path: "/travelOnTipCall/{serviceType}"
     
 db:
   mysql:
