@@ -16,6 +16,7 @@
       "exportedPackages": [],
       "exportedResources": [
         "log4j2.xml",
+        ".DS_Store",
         "config/uat.yaml",
         "config/dev.yaml",
         "config/sit.yaml",
